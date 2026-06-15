@@ -74,6 +74,9 @@ Open `financial_report.xlsx` — contains metrics, ratios, charts, and AI summar
 
 ## 📊 Sample Output
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02f1707d-dbd6-422d-870f-e3e8dd2afaf0" />
+
+
 ### Charts Generated
 - Revenue Comparison
 - Net Income Comparison  
