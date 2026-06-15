@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# API Keys (never upload these)
+config.py
+secrets.py
+
+# PDFs (too large for GitHub)
+pdfs/
+
+# Generated outputs (optional to exclude)
+charts/
+financial_report.xlsx
+summary.txt
+.env

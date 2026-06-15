@@ -1,0 +1,6 @@
+pdfplumber
+pandas
+matplotlib
+openpyxl
+groq
+requests
