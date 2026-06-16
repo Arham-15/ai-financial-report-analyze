@@ -3,6 +3,8 @@
 An automated financial analysis tool that extracts, processes, visualizes, and summarizes 
 financial data directly from SEC 10-K PDF filings using Python and AI.
 
+Live app https://ai-financial-report-analyze-eka7ebynjzat5kwq4p2tt9.streamlit.app/
+
 ---
 
 ## 🚀 Features
